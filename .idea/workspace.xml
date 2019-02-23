@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e602d067-1a5a-48ff-a1bc-838b076d14d0" name="Default Changelist" comment="" />
+    <list default="true" id="e602d067-1a5a-48ff-a1bc-838b076d14d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/PDF.js/web/viewer.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/PDF.js/web/viewer.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,11 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Django/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1325">
-              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+            <state relative-caret-position="72">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -32,16 +36,23 @@
         <entry file="file://$PROJECT_DIR$/static/js/PDF.js/build/pdf.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="111">
-              <caret line="7875" column="59" selection-start-line="7875" selection-start-column="52" selection-end-line="7875" selection-end-column="59" />
+              <caret line="7884" column="41" selection-start-line="7884" selection-start-column="36" selection-end-line="7884" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/PDF.js/build/pdf.worker.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-54" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/js/PDF.js/web/viewer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="4352" column="18" selection-start-line="4352" selection-start-column="18" selection-end-line="4352" selection-end-column="18" />
+            <state relative-caret-position="291">
+              <caret line="3559" lean-forward="true" selection-start-line="3559" selection-end-line="3559" />
             </state>
           </provider>
         </entry>
@@ -89,9 +100,10 @@
       <find>wor</find>
       <find>worker</find>
       <find>au</find>
-      <find>pdf.wor</find>
       <find>default</find>
+      <find>pdf.wor</find>
       <find>BASE</find>
+      <find>build</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -104,11 +116,12 @@
         <option value="$PROJECT_DIR$/rest_api/views.py" />
         <option value="$PROJECT_DIR$/static/js/PDF.js/web/viewer.html" />
         <option value="$PROJECT_DIR$/Django/views.py" />
-        <option value="$PROJECT_DIR$/static/js/PDF.js/build/pdf.js" />
         <option value="$PROJECT_DIR$/templates/viewer.html" />
-        <option value="$PROJECT_DIR$/static/js/PDF.js/web/viewer.js" />
         <option value="$PROJECT_DIR$/Django/urls.py" />
+        <option value="$PROJECT_DIR$/static/js/PDF.js/build/pdf.js" />
+        <option value="$PROJECT_DIR$/static/js/PDF.js/build/pdf.worker.js" />
         <option value="$PROJECT_DIR$/Django/settings.py" />
+        <option value="$PROJECT_DIR$/static/js/PDF.js/web/viewer.js" />
       </list>
     </option>
   </component>
@@ -146,6 +159,58 @@
               <item name="Django" type="462c0819:PsiDirectoryNode" />
               <item name="media" type="462c0819:PsiDirectoryNode" />
               <item name="pdf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="PDF.js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="PDF.js" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="PDF.js" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="pdf.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="PDF.js" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="pdf.worker.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="PDF.js" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Django" type="b2602c69:ProjectViewProjectNode" />
@@ -227,12 +292,12 @@
       <workItem from="1550238976824" duration="2352000" />
       <workItem from="1550753143241" duration="42000" />
       <workItem from="1550819057497" duration="713000" />
-      <workItem from="1550891156596" duration="9164000" />
+      <workItem from="1550891156596" duration="11221000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12442000" />
+    <option name="totallyTimeSpent" value="14499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -351,20 +416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/PDF.js/build/pdf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="7875" column="59" selection-start-line="7875" selection-start-column="52" selection-end-line="7875" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/PDF.js/web/viewer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="4352" column="18" selection-start-line="4352" selection-start-column="18" selection-end-line="4352" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Django/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -375,10 +426,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/PDF.js/build/pdf.worker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Django/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1325">
-          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+        <state relative-caret-position="72">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/PDF.js/build/pdf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="7884" column="41" selection-start-line="7884" selection-start-column="36" selection-end-line="7884" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/PDF.js/web/viewer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="3559" lean-forward="true" selection-start-line="3559" selection-end-line="3559" />
         </state>
       </provider>
     </entry>
