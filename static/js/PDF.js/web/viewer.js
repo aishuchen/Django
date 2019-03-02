@@ -4350,7 +4350,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: '/media/pdf/个人简历-Python开发工程师.pdf',
+    value: '/media/pdf/Python工程师-姜活跃.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {

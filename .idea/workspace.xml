@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e602d067-1a5a-48ff-a1bc-838b076d14d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/PDF.js/web/viewer.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/PDF.js/web/viewer.js" afterDir="false" />
-    </list>
+    <list default="true" id="e602d067-1a5a-48ff-a1bc-838b076d14d0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/js/PDF.js/web/viewer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="3559" lean-forward="true" selection-start-line="3559" selection-end-line="3559" />
+            <state relative-caret-position="237">
+              <caret line="3556" column="9" lean-forward="true" selection-start-line="3556" selection-start-column="9" selection-end-line="3556" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -292,12 +288,12 @@
       <workItem from="1550238976824" duration="2352000" />
       <workItem from="1550753143241" duration="42000" />
       <workItem from="1550819057497" duration="713000" />
-      <workItem from="1550891156596" duration="11221000" />
+      <workItem from="1550891156596" duration="12164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14499000" />
+    <option name="totallyTimeSpent" value="15442000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -308,7 +304,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -447,8 +443,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/PDF.js/web/viewer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="3559" lean-forward="true" selection-start-line="3559" selection-end-line="3559" />
+        <state relative-caret-position="237">
+          <caret line="3556" column="9" lean-forward="true" selection-start-line="3556" selection-start-column="9" selection-end-line="3556" selection-end-column="9" />
         </state>
       </provider>
     </entry>
